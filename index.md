@@ -4,19 +4,19 @@ title:  Curriculum vitæ de Damien DUBÉDAT
 ---
 # Damien DUBÉDAT
 
-<a href="mailto:dubdub@CHEZfree.fr?subject=Github">dubdub@CHEZ@freePOINTfr</a>
+<a href="mailto:dubdub@CHEZfree.fr"><i class="fa fa-address-card"></i> dubdub@CHEZ@freePOINTfr</a>
 <div id="webaddress">
 <a href="https://ledub72.github.io/"><i class="fab fa-github-alt"></i> ledub72.github.io</a> -
   <a href="https://github.com/ledub72"><i class="fab fa-github"></i> ledub72</a> -
   <a href="https://gitlab.com/DamDub"><i class="fab fa-gitlab"></i> DamDub</a> <br>
-<a href="https://iels-ledub.netlib.re/site/"><i class="fas fa-home"></i> Site perso</a> -
+  <a href="https://iels-ledub.netlib.re/site/"><i class="fas fa-home"></i> Site perso</a> -
   <a href="https://www.linkedin.com/in/damien-dubedat"><i class="fab fa-linkedin"></i> Damien DUBÉDAT</a>
 </div>
 
 ----
 
-> Administrateur système GNU/Linux,\
-Administrateur Ansible\
+> Administrateur système GNU/Linux,<br>
+Administrateur Ansible<br>
 Expert en shell
 
 ----
@@ -104,8 +104,8 @@ Expert en shell
 - Rédaction, toujours en cours, d’une formation sur Ansible
 - Participation à la rédaction de la formation GNU/Linux [Formatux](https://www.formatux.fr/formatux-formatux/index.html)
 
-**Système** : Debian, CentOS\
-**Langage** : Shell, Markdown, LaTeX\
+**Système** : Debian, CentOS<br>
+**Langage** : Shell, Markdown, LaTeX<br>
 **Outils** : Ansible, Git, Pandoc, Proxmox, Yunohost, sécateur,...
 
 ### 2022
@@ -133,9 +133,9 @@ Expert en shell
 - Présence à des réunions et actions pour la résolution d’incidents, majeurs ou récurrents
 - Tentative d’amélioration et de correction de consignes, de scripts et de la gestion des documentations
 
-**Système** : Red Hat, Ubuntu, Aix, SunOs\
-**Langage** : Shell\
-**Outils** : ServiceNow, DataDog, Centreon\
+**Système** : Red Hat, Ubuntu, Aix, SunOs<br>
+**Langage** : Shell<br>
+**Outils** : ServiceNow, DataDog, Centreon<br>
 **Cloud** : Azure
 
 ### 2022
@@ -148,8 +148,8 @@ Expert en shell
 - Rédaction de playbook et de rôles pour la gestion de Pod Kubernetes
 - Assistance à la rédaction de scripts d’administration applicative
 
-**Système** : Red Hat\
-**Langage** : Shell\
+**Système** : Red Hat<br>
+**Langage** : Shell<br>
 **Outils** : Ansible, Kubernetes, Git
 
 ### 2019-2021
@@ -175,8 +175,8 @@ Expert en shell
 - Support des changements IWS
 - Rédaction, mise à jour de documentations sur IWS, CFT, Git et l’administration Linux Red Hat
 
-**Système** : Red Hat\
-**Langage** : Shell\
+**Système** : Red Hat<br>
+**Langage** : Shell<br>
 **Outils** : Ansible, IWS, Git, Dynatrace
 
 ### 2018-2019
@@ -198,8 +198,8 @@ Expert en shell
 - Rédaction de documentations sur les playbooks et l’administration et l’utilisation des serveurs PXE et `apt-cacher-ng`
 - Administrateur d’AWX, Jira et Confluence de Atlassian
 
-**Système** : Ubuntu, Debian\
-**Langage** : Shell, Python\
+**Système** : Ubuntu, Debian<br>
+**Langage** : Shell, Python<br>
 **Outils** : Ansible, AWX, Proxmox, Git
 
 ### 2018
@@ -216,8 +216,8 @@ Expert en shell
 - Modification de scripts Shell pour la gestion d’un dépôt de fichiers et pour la parallélisation des commandes JBoss
 - Correction de scripts Groovy
 
-**Système** : Red Hat\
-**Langage** : Shell, Groovy\
+**Système** : Red Hat<br>
+**Langage** : Shell, Groovy<br>
 **Outils** : Ansible, SBM, SDA
 
 ### 2014-2018
@@ -251,9 +251,9 @@ Expert en shell
 - Création de scripts de contrôle de fichiers par Sentinel ou GateWay, d’interrogation Oracle et MySQL, de sauvegarde MySQL et PostgreSQL, et d’interaction avec le logiciel Core BanKing T24 (Temenos),
 - Animation de micro-formations dispensées auprès de mes collègues sur Unix & GNU/Linux, Shell, Logiciels libres,
 
-**Système** : Red Hat\
-**Langage** : Shell, SQL\
-**SGBD** : Oracle, DB2, MySQL, PostgreSQL\
+**Système** : Red Hat<br>
+**Langage** : Shell, SQL<br>
+**SGBD** : Oracle, DB2, MySQL, PostgreSQL<br>
 **Outils** : IWS, CFT, Sentinel, GateWay, Centreon, Git
 
 ### 2013-2014
@@ -282,9 +282,9 @@ Expert en shell
 * d’analyse des LUN NetApp et IBM,
 * de cartographie réseau avec `nmap`.
 
-**Système** : Oracle Linux, CentOs, Debian\
-**Langage** : Shell, SQL\
-**SGBD** : Oracle, MySQL\
+**Système** : Oracle Linux, CentOs, Debian<br>
+**Langage** : Shell, SQL<br>
+**SGBD** : Oracle, MySQL<br>
 **Outils** : OVM, VMware, Tina
 
 ### 2012
@@ -308,9 +308,9 @@ Expert en shell
 
 - Rédaction de scripts et de consignes
 
-**Système** : Red Hat, Suse\
-**Langage** : Shell, SQL\
-**SGBD** : Oracle\
+**Système** : Red Hat, Suse<br>
+**Langage** : Shell, SQL<br>
+**SGBD** : Oracle<br>
 **Outils**: TWS
 
 ### 2012
@@ -342,9 +342,9 @@ Expert en shell
   * nettoyage des objets obsolètes (calendrier, traitement orphelin, chaîne vide, etc...)
   * génération de pages HTML contenant les informations des chaînes et un schéma des enchaînements des traitements
 
-**Système** : Red Hat\
-**Langage** : Shell, SQL\
-**SGBD** : DB2\
+**Système** : Red Hat<br>
+**Langage** : Shell, SQL<br>
+**SGBD** : DB2<br>
 **Outils** : TWS
 
 ### 2011
@@ -374,8 +374,8 @@ Expert en shell
 * Rédaction de documentations relatives à la gestion des incidents de production et des actions de mises à jour des environnements de recette, pré-production et production
 * Gestion des incidents de la production gérée par $U
 
-**Système** : Red Hat\
-**Langage** : Shell\
+**Système** : Red Hat<br>
+**Langage** : Shell<br>
 **Outils** :$U, LDAP
 
 ### 2009-2010
@@ -397,8 +397,8 @@ Expert en shell
 * Rédaction d’une procédure de bascule de moteur TWS
 * Formation
 
-**Système** : Red Hat, Debian, Aix\
-**Langage** : Shell\
+**Système** : Red Hat, Debian, Aix<br>
+**Langage** : Shell<br>
 **Outils** : TWS,CFT
 
 ### 2008-2009
@@ -416,7 +416,7 @@ Expert en shell
 - Amélioration de scripts de sauvegarde de fichiers de configuration des équipements réseaux.
 - Création de scripts pour la génération de fichiers .XLS de la configuration de baie SAN.
 
-**Système** : Red Hat\
+**Système** : Red Hat<br>
 **Langage** : Shell
 
 ### 2008-2009
@@ -438,9 +438,9 @@ Expert en shell
 - Administration de l’ordonnanceur TWS
 - Administration de l’ETL PowerCenter d’Informatica
 
-**Système** : SunOs, Debian, Aix\
-**Langage** : Shell, PHP\
-**SGBD** : Oracle, MySQL\
+**Système** : SunOs, Debian, Aix<br>
+**Langage** : Shell, PHP<br>
+**SGBD** : Oracle, MySQL<br>
 **Outils** : TWS, CFT, PowerCenter d’Informatica
 
 ### 2007-2008
@@ -456,9 +456,9 @@ Expert en shell
 - Diagnostic et résolution d’incidents et problèmes de production.
 - Analyse de performance de nouvelles versions d’applications.
 
-**Système** : SunOs, Suse\
-**Langage** : Shell\
-**SGBD** : Oracle, Sybase, Access\
+**Système** : SunOs, Suse<br>
+**Langage** : Shell<br>
+**SGBD** : Oracle, Sybase, Access<br>
 **Outils** : $U, DBArtisan
 
 ### 2006-2006
@@ -472,9 +472,9 @@ Expert en shell
 - Paramétrage d’outils TSM, Sysload, Monitor.
 - Gestion des changements : applicatif, système.
 
-**Système** : HP Ux, SunOs, Linux\
-**Langage** : Shell, Perl\
-**SGBD** : Oracle, Sybase\
+**Système** : HP Ux, SunOs, Linux<br>
+**Langage** : Shell, Perl<br>
+**SGBD** : Oracle, Sybase<br>
 **Outils** : Sysload, VmWare, Mon
 
 ### 2005
@@ -489,9 +489,9 @@ Expert en shell
 - Administration de TWS.
 - Utilisation de SAP.
 
-**Système** : HP Ux\
-**Langage** : Shell, Perl\
-**SGBD** : Oracle\
+**Système** : HP Ux<br>
+**Langage** : Shell, Perl<br>
+**SGBD** : Oracle<br>
 **Outils** : TWS, SAP
 
 ### 2004-2005
@@ -505,9 +505,9 @@ Expert en shell
 * Utilisation de l’ordonnanceur Unicenter de Computer Associates et des sauvegardes par Tivoli Storage Manager.
 * Restauration de fichiers par TSM.
 
-**Système** : SunOs\
-**Langage** : Shell\
-**SGBD** : Oracle\
+**Système** : SunOs<br>
+**Langage** : Shell<br>
+**SGBD** : Oracle<br>
 **Outils** : Unicenter, Tivoli Storage Manager
 
 ### 2003-2004
@@ -520,9 +520,9 @@ Expert en shell
 - Utilisation de l’ordonnanceur Control-M et des sauvegardes par Networker.
 - Réalisation d’actions demandées pour l’installation de nouvelles applications.
 
-**Système** : Red Hat, SunOs\
-**Langage** : Shell\
-**SGBD** : Oracle client Windows, serveur Unix\
+**Système** : Red Hat, SunOs<br>
+**Langage** : Shell<br>
+**SGBD** : Oracle client Windows, serveur Unix<br>
 **Outils** : Control-M, Networker
 
 ### 2001-2003
@@ -538,9 +538,9 @@ Expert en shell
 - Surveillance Tivoli, Administration de l’ordonnanceur $Universe et des sauvegardes par Networker.
 - Migration d’une production d’Unix HP vers SunOs pour l’application Summit.
 
-**Système** : HP Ux, SunOs, VMS & NT\
-**Langage** : Shell, SQL\
-**SGBD** : Oracle, Sybase\
+**Système** : HP Ux, SunOs, VMS & NT<br>
+**Langage** : Shell, SQL<br>
+**SGBD** : Oracle, Sybase<br>
 **Outils** : Surveillance Tivoli, $Universe, Networker
 
 ### 2000-2001
@@ -553,9 +553,9 @@ Expert en shell
 - Utilisation de la surveillance Tivoli, utilisation de l’ordonnanceur $Universe et restauration des sauvegardes par Networker.
 - Application des consignes sur remontée d’incident
 
-**Système** : HP Ux, SunOs, VMS & NT\
-**Langage** : Shell\
-**SGBD** : Sybase\
+**Système** : HP Ux, SunOs, VMS & NT<br>
+**Langage** : Shell<br>
+**SGBD** : Sybase<br>
 **Outils** : Surveillance Tivoli, $Universe, Networker
 
 ### 2000
@@ -568,9 +568,9 @@ Expert en shell
 - Administration de l’ordonnanceur $Universe.
 - Création de scripts pour la gestion de sauvegardes et mises en production.
 
-**Système** : SunOs\
-**Langage** : Shell, HTML\
-**SGBD** : Oracle\
+**Système** : SunOs<br>
+**Langage** : Shell, HTML<br>
+**SGBD** : Oracle<br>
 **Outils** : Universe
 
 ### 2000
@@ -584,7 +584,7 @@ Expert en shell
 - Support technique
 - Formation des utilisateurs au nouveau système d’encaissements
 
-**Système** : Unix SCO, BSD\
+**Système** : Unix SCO, BSD<br>
 **Langage** : Shell
 
 ### 1996-2000
@@ -599,7 +599,7 @@ Expert en shell
 - Dépannage sur site et par téléphone
 - Formation de clients et du personnel.
 
-**Système** : Interactive Unix, Unix SCO\
+**Système** : Interactive Unix, Unix SCO<br>
 **Langage** : Shell
 
 ## Formation : Électronique
