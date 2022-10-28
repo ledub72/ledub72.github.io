@@ -1,0 +1,6 @@
+markdown:   kramdown
+  #style:  kjhealy
+style:  davewhipp
+#theme: jekyll-theme-minimal
+title: Blog de Damien 
+#description: Bookmark this to keep an eye on my project updates!
