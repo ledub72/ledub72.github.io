@@ -610,11 +610,9 @@ Expert en shell
 
 ## Centres d’intérêts
 
-Informatique :
-
-* autodidacte, curieux et passionné de logiciels libres en général et GNU/Linux en particulier,
-* Utilisateur de GNU/Linux depuis 1999, Debian depuis 2002,
-* Adhérent d’une association de promotion des Logiciels Libres (Oisux).
-
-Lecture de romans, de revues informatiques et musicales.
-Petit gratteur de cordes de guitare.
+- Informatique :
+  * autodidacte, curieux et passionné de logiciels libres en général et GNU/Linux en particulier,
+  * Utilisateur de GNU/Linux depuis 1999, Debian depuis 2002,
+  * Adhérent d’une association de promotion des Logiciels Libres (Oisux).
+- Lecture de romans, de revues informatiques et musicales.
+- Petit gratteur de cordes de guitare.
