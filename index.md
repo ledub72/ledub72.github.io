@@ -24,10 +24,10 @@ Expert en shell
 ## Compétences
 
 ### **Système**
-- Maîtrise des environnements GNU/Linux (Debian et Red Hat), Unix
+- Maîtrise des environnements GNU/Linux (Debian, Red Hat), Unix
 
 ### **Langages**
-- Expert en Shell, bonnes connaissances en HTML, Python, LaTeX, Markdown, PHP & SQL.
+- Expert en Shell, bonnes connaissances en HTML, Python, LaTeX, Markdown, PHP, SQL.
 
 ### **Outils**<br> `Administration`
 
@@ -177,7 +177,7 @@ Expert en shell
 
 **Système** : Red Hat<br>
 **Langage** : Shell<br>
-**Outils** : Ansible, IWS, Git, Dynatrace
+**Outils** : Ansible, IWS, Git, Tower, Dynatrace
 
 ### 2018-2019
 
@@ -489,7 +489,7 @@ Expert en shell
 - Administration de TWS.
 - Utilisation de SAP.
 
-**Système** : HP Ux<br>
+**Système** : HP-UX<br>
 **Langage** : Shell, Perl<br>
 **SGBD** : Oracle<br>
 **Outils** : TWS, SAP
@@ -538,7 +538,7 @@ Expert en shell
 - Surveillance Tivoli, Administration de l’ordonnanceur $Universe et des sauvegardes par Networker.
 - Migration d’une production d’Unix HP vers SunOs pour l’application Summit.
 
-**Système** : HP Ux, SunOs, VMS & NT<br>
+**Système** : HP-UX, SunOs, VMS & NT<br>
 **Langage** : Shell, SQL<br>
 **SGBD** : Oracle, Sybase<br>
 **Outils** : Surveillance Tivoli, $Universe, Networker
@@ -553,7 +553,7 @@ Expert en shell
 - Utilisation de la surveillance Tivoli, utilisation de l’ordonnanceur $Universe et restauration des sauvegardes par Networker.
 - Application des consignes sur remontée d’incident
 
-**Système** : HP Ux, SunOs, VMS & NT<br>
+**Système** : HP-UX, SunOs, VMS & NT<br>
 **Langage** : Shell<br>
 **SGBD** : Sybase<br>
 **Outils** : Surveillance Tivoli, $Universe, Networker
