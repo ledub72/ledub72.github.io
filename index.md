@@ -1,6 +1,8 @@
 ---
 layout: cv
+date: 2022-11-16
 title:  Curriculum vitæ de Damien DUBÉDAT
+
 ---
 # Damien DUBÉDAT
 
@@ -9,7 +11,7 @@ title:  Curriculum vitæ de Damien DUBÉDAT
 <a href="https://ledub72.github.io/"><i class="fab fa-github-alt"></i> ledub72.github.io</a> -
   <a href="https://github.com/ledub72"><i class="fab fa-github"></i> ledub72</a> -
   <a href="https://gitlab.com/DamDub"><i class="fab fa-gitlab"></i> DamDub</a> <br>
-  <a href="https://iels-ledub.netlib.re/site/"><i class="fas fa-home"></i> Site perso</a> -
+  <a href="https://iels-ledub.gitlab.io/mon_site/"><i class="fas fa-home"></i> Site perso</a> -
   <a href="https://www.linkedin.com/in/damien-dubedat"><i class="fab fa-linkedin"></i> Damien DUBÉDAT</a>
 </div>
 
@@ -72,13 +74,11 @@ Expert en shell
 
 ### 2021-2022
 
-- **Activement bénévole.**
+- **Bénévolat.**
 - Pour l’association [Orry-en-transition](https://orryentransition.fr/) :
-  * Administrateur informatique de l’association,
-  * Référent sur des Logiciels Libre et la sobriété informatique,
   * Préparation et animation d'un rencontre sur les logiciels libres et la sobriété numérique (20 janvier 2022)
   * Recyclage d’ordinateurs par l’utilisation de GNU/Linux Debian,
-  * Actions de promotion de l’association : troc aux plantes, réparation de vélos, création d’un hôtel à insectes, nettoyage de la ville et des forêts attenantes. . .
+  * Actions de promotion de l’association : réparation de vélos, création d’un hôtel à insectes, nettoyage de la ville et des forêts attenantes. . .
 
 - [Oisux](https://www.oisux.org/), association de promotion des Logiciels Libre sur le secteur géographique de l’Oise :
   * Assistance informatique depuis 2007,
@@ -99,14 +99,26 @@ Expert en shell
   * Sensibilisation autour des logiciels libres.
 
 - Cueillette de plantes médicinales pour [Les Plantes de Mathilde](https://lesplantesdemathilde.fr/).
-- Veille technologique pour la création d’un _coworking_.
-- Rédaction (en Markdown et LaTeX) et animation d’une conférence sur Led Zeppelin ([à lire ici](https://iels-ledub.netlib.re/site/musique/))
+- Rédaction (en Markdown et LaTeX) et animation d’une conférence sur Led Zeppelin ([à lire ici](https://iels-ledub.gitlab.io/mon_site/musique/))
 - Rédaction, toujours en cours, d’une formation sur Ansible
 - Participation à la rédaction de la formation GNU/Linux [Formatux](https://www.formatux.fr/formatux-formatux/index.html)
 
 **Système** : Debian, CentOS<br>
 **Langage** : Shell, Markdown, LaTeX<br>
 **Outils** : Ansible, Git, Pandoc, Proxmox, Yunohost, sécateur,...
+
+### 2022-2023
+
+`Depuis décembre 2022`
+
+- **Administrateur système GNU/Linux N2/N3**
+- _Société Générale à Val-de-Fontenay, SSIELL via Orness._
+- **Administrateur système niveau 3**
+
+- Maintien en condition opérationnelle des serveurs physiques utilisés pour le trading à haute fréquence.
+- Amélioration et simplification des tests de validation d'état de santé des serveurs.
+- Rédaction de documentations relatives à mon activité.
+- Relation avec les fournisseurs et les partenaires qui gèrent les différents hébergements.
 
 ### 2022
 
