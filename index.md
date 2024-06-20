@@ -119,6 +119,12 @@ Expert en shell
 - Amélioration et simplification des tests de validation d'état de santé des serveurs.
 - Rédaction de documentations relatives à mon activité.
 - Relation avec les fournisseurs et les partenaires qui gèrent les différents hébergements.
+- Configuration de BIOS/iLO et système d'exploitation Red-Hat 7 & 8.
+- Configuration de modules Puppet pour la création de serveurs en Red Hat 8.
+
+**Système** : Red Hat<br>
+**Langage** : Shell, Python<br>
+**Outils** : Puppet, Ansible<br>
 
 ### 2022
 
@@ -628,3 +634,5 @@ Expert en shell
   * Adhérent d’une association de promotion des Logiciels Libres (Oisux).
 - Lecture de romans, de revues informatiques et musicales.
 - Petit gratteur de cordes de guitare.
+- Fondateur et président du club de tennis de table d'Orry-la-Ville [CO Ping](https://co-ping.fr).
+- Mise en place de l'informatique nécessaire à la gestion du club.
