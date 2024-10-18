@@ -31,13 +31,13 @@ Expert en shell
 ### **Langages**
 - Expert en Shell, bonnes connaissances en HTML, Python, LaTeX, Markdown, PHP, SQL.
 
-### **Outils**<br> connaissances d'`administrateur`
+### **Outils**<br> `connaissances d'administrateur`
 
 - Ansible, AWX, Tower,
 - IBM Workload Scheduler (anciennement TWS),
 - OVM, VirtualBox.
 
-### **Outils**<br> connaissance d'`utilisateur`
+### **Outils**<br> `connaissances d'utilisateur`
 
 - Git (GitHub, GitLab, Framagit),
 - Puppet,
@@ -85,14 +85,13 @@ Expert en shell
   * Assistance informatique depuis 2007,
   * Promotion de la distribution Primtux au salon Open Source Expérience et au Carnaval des Possibles.
 
-- [Orry’zon](https://orryzon.fr/), association organisatrice d’événements culturels.
-- [ArtemOise](https://www.artemoise.fr/), association culturelle de promotion de musiques lyriques.
+- [Orry’zon](https://orryzon.fr/), association culturel.<br>[ArtemOise](https://www.artemoise.fr/), association culturelle de promotion de musiques lyriques.
   * Pour la bonne réalisation d’une balade musicale,
   * Pour l’organisation de la 5e édition des Orryginales, concentration de voitures d’exception.
   * Machiniste pour des spectacles musicaux (_Les Trois Ténors aux J.O_ à Chantilly le 22 juin 2024, _Véronique_ à Coye-la-Forêt le 29 septembre 2024)
 
-- Pour le festival de cinéma d’Orry-la-Ville
-  * Sa préparation,
+- Pour [Orry Film Festival](https://www.orryfilmfestival.fr) d’Orry-la-Ville,
+  * Préparation du festival,
   * Visionnage et sélection de films,
   * Présentation des films pour l'édition 2022,
   * Animation des débats post projection
