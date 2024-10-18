@@ -31,15 +31,16 @@ Expert en shell
 ### **Langages**
 - Expert en Shell, bonnes connaissances en HTML, Python, LaTeX, Markdown, PHP, SQL.
 
-### **Outils**<br> `Administration`
+### **Outils**<br> connaissances d'`administrateur`
 
-- Ansible, AWX, Tower
+- Ansible, AWX, Tower,
 - IBM Workload Scheduler (anciennement TWS),
 - OVM, VirtualBox.
 
-### `Utilisation`
+### **Outils**<br> connaissance d'`utilisateur`
 
 - Git (GitHub, GitLab, Framagit),
+- Puppet,
 - Proxmox, KVM,
 - Jira, Confluence, Bitbucket,
 - CFT.
@@ -78,7 +79,7 @@ Expert en shell
 - Pour l’association [Orry-en-transition](https://orryentransition.fr/) :
   * Préparation et animation d'un rencontre sur les logiciels libres et la sobriété numérique (20 janvier 2022)
   * Recyclage d’ordinateurs par l’utilisation de GNU/Linux Debian,
-  * Actions de promotion de l’association : réparation de vélos, création d’un hôtel à insectes, nettoyage de la ville et des forêts attenantes. . .
+  * Actions de promotion de l’association : réparation de vélos, création d’un hôtel à insectes, nettoyage de la ville et des forêts attenantes...
 
 - [Oisux](https://www.oisux.org/), association de promotion des Logiciels Libre sur le secteur géographique de l’Oise :
   * Assistance informatique depuis 2007,
@@ -87,12 +88,13 @@ Expert en shell
 - [Orry’zon](https://orryzon.fr/), association organisatrice d’événements culturels.
   * Pour la bonne réalisation d’une balade musicale,
   * Pour l’organisation de la 5e édition des Orryginales, concentration de voitures d’exception.
+  * Machiniste pour quelques spectacles musicaux 
 
 - Pour le festival de cinéma d’Orry-la-Ville
   * Sa préparation,
   * Visionnage et sélection des films,
-  * Présentation des films,
-  * Animation des débats post-projection
+  * Présentation des films pour l'édition 2022,
+  * Animation des débats post projection
 
 - Pour le _repair café_ [Rep'aire au vert](https://www.repaircafe.org/fr/cafe/repair-cafe-lamorlaye-et-ses-environs/) de Lamorlaye
   * Petites réparations informatiques,
@@ -100,18 +102,17 @@ Expert en shell
 
 - Cueillette de plantes médicinales pour [Les Plantes de Mathilde](https://lesplantesdemathilde.fr/).
 - Rédaction (en Markdown et LaTeX) et animation d’une conférence sur Led Zeppelin ([à lire ici](https://iels-ledub.gitlab.io/mon_site/musique/))
-- Rédaction, toujours en cours, d’une formation sur Ansible
 - Participation à la rédaction de la formation GNU/Linux [Formatux](https://www.formatux.fr/formatux-formatux/index.html)
 
 **Système** : Debian, CentOS<br>
 **Langage** : Shell, Markdown, LaTeX<br>
 **Outils** : Ansible, Git, Pandoc, Proxmox, Yunohost, sécateur,...
 
-### 2022-2023
+### 2022-2024
 
 `Depuis décembre 2022`
 
-- **Administrateur système GNU/Linux N2/N3**
+- **Administrateur système GNU/Linux N3**
 - _Société Générale à Val-de-Fontenay, SSIELL via Orness._
 - **Administrateur système niveau 3**
 
@@ -119,8 +120,9 @@ Expert en shell
 - Amélioration et simplification des tests de validation d'état de santé des serveurs.
 - Rédaction de documentations relatives à mon activité.
 - Relation avec les fournisseurs et les partenaires qui gèrent les différents hébergements.
-- Configuration de BIOS/iLO et système d'exploitation Red-Hat 7 & 8.
+- Configuration de BIOS/iLO et système d'exploitation Red Hat 7 & 8.
 - Configuration de modules Puppet pour la création de serveurs en Red Hat 8.
+- Masterisation de serveurs en Red Hat?
 
 **Système** : Red Hat<br>
 **Langage** : Shell, Python<br>
@@ -162,7 +164,7 @@ Expert en shell
 
 - **Ingénieur DevOps GNU/Linux**
 - _EU-Lisa, Strasbourg, SSIELL via Next-Ventures._
-- Dans un environnement exclusivement anglophone
+- Dans un environnement exclusivement anglophone.
 - Rédaction de playbook et de rôles pour la gestion de Pod Kubernetes
 - Assistance à la rédaction de scripts d’administration applicative
 
@@ -185,12 +187,12 @@ Expert en shell
 * Amélioration de l’existant.
 - **Ingénieur système**
 
-- Maintien en condition opérationnelle d’une centaine de serveurs
-- Gestion des demandes auprès de l’hébergeur
-- Création de playbooks Ansible pour la création d’un socle Linux commun à tous les serveurs
-- Gestion de dépôts Git
-- Validation des évolutions des scripts
-- Support des changements IWS
+- Maintien en condition opérationnelle d’une centaine de serveurs,
+- Gestion des demandes auprès de l’hébergeur (Crédit Agricole),
+- Création de playbooks Ansible pour la création d’un socle Linux commun à tous les serveurs,
+- Gestion de dépôts Git,
+- Validation des évolutions des scripts,
+- Support des changements IWS,
 - Rédaction, mise à jour de documentations sur IWS, CFT, Git et l’administration Linux Red Hat
 
 **Système** : Red Hat<br>
@@ -211,10 +213,10 @@ Expert en shell
 - Amélioration de la sécurité des postes (_Hardening_)
 - **Technicien bureautique**
 
-- Inventaire des configurations, des postes et pièces détachées
-- Réalisation, avec Proxmox, et mise en place d’un serveur PXE et d’un serveur de paquets `apt-cacher-ng`
-- Rédaction de documentations sur les playbooks et l’administration et l’utilisation des serveurs PXE et `apt-cacher-ng`
-- Administrateur d’AWX, Jira et Confluence de Atlassian
+- Inventaire des configurations, des postes et pièces détachées.
+- Réalisation, avec Proxmox, et mise en place d’un serveur PXE et d’un serveur de paquets `apt-cacher-ng`.
+- Rédaction de documentations sur les playbooks et l’administration et l’utilisation des serveurs PXE et `apt-cacher-ng`.
+- Administrateur d’AWX, Jira et Confluence de Atlassian.
 
 **Système** : Ubuntu, Debian<br>
 **Langage** : Shell, Python<br>
@@ -632,7 +634,8 @@ Expert en shell
   * autodidacte, curieux et passionné de logiciels libres en général et GNU/Linux en particulier,
   * Utilisateur de GNU/Linux depuis 1999, Debian depuis 2002,
   * Adhérent d’une association de promotion des Logiciels Libres (Oisux).
-- Lecture de romans, de revues informatiques et musicales.
-- Petit gratteur de cordes de guitare.
-- Fondateur et président du club de tennis de table d'Orry-la-Ville [CO Ping](https://co-ping.fr).
-- Mise en place de l'informatique nécessaire à la gestion du club.
+- Fondateur et président du club de tennis de table d'Orry-la-Ville [CO Ping](https://co-ping.fr) :
+  * Gestion des presque 40 membres dont 12 enfants et des 2 équipes de compétition.
+  * Relation avec les mairies, la Fédération, la ligue, le comité et les autres clubs
+  * Création et animation d'actions de promotion du tennis de table.
+  * Mise en place de l'informatique nécessaire à la gestion du club (Paheko, Joomla!, NextCloud).
