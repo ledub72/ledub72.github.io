@@ -86,13 +86,14 @@ Expert en shell
   * Promotion de la distribution Primtux au salon Open Source Expérience et au Carnaval des Possibles.
 
 - [Orry’zon](https://orryzon.fr/), association organisatrice d’événements culturels.
+- [ArtemOise](https://www.artemoise.fr/), association culturelle de promotion de musiques lyriques.
   * Pour la bonne réalisation d’une balade musicale,
   * Pour l’organisation de la 5e édition des Orryginales, concentration de voitures d’exception.
-  * Machiniste pour quelques spectacles musicaux 
+  * Machiniste pour des spectacles musicaux (_Les Trois Ténors aux J.O_ à Chantilly le 22 juin 2024, _Véronique_ à Coye-la-Forêt le 29 septembre 2024)
 
 - Pour le festival de cinéma d’Orry-la-Ville
   * Sa préparation,
-  * Visionnage et sélection des films,
+  * Visionnage et sélection de films,
   * Présentation des films pour l'édition 2022,
   * Animation des débats post projection
 
