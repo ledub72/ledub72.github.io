@@ -1,2 +1,6 @@
-_site/
+*.out
+*.aux
+*.log
+*.pdf
 .sass-cache/
+_site/

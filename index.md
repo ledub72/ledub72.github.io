@@ -77,7 +77,7 @@ Expert en shell
 
 - **Bénévolat.**
 - Pour l’association [Orry-en-transition](https://orryentransition.fr/) :
-  * Préparation et animation d'un rencontre sur les logiciels libres et la sobriété numérique (20 janvier 2022)
+  * Préparation et animation d'une rencontre sur les logiciels libres et la sobriété numérique (20 janvier 2022)
   * Recyclage d’ordinateurs par l’utilisation de GNU/Linux Debian,
   * Actions de promotion de l’association : réparation de vélos, création d’un hôtel à insectes, nettoyage de la ville et des forêts attenantes...
 
@@ -85,7 +85,7 @@ Expert en shell
   * Assistance informatique depuis 2007,
   * Promotion de la distribution Primtux au salon Open Source Expérience et au Carnaval des Possibles.
 
-- [Orry’zon](https://orryzon.fr/), association culturel.<br>[ArtemOise](https://www.artemoise.fr/), association culturelle de promotion de musiques lyriques.
+- [Orry’zon](https://orryzon.fr/), association culturelle.<br>[ArtemOise](https://www.artemoise.fr/), association culturelle de promotion de musiques lyriques.
   * Pour la bonne réalisation d’une balade musicale,
   * Pour l’organisation de la 5e édition des Orryginales, concentration de voitures d’exception.
   * Machiniste pour des spectacles musicaux (_Les Trois Ténors aux J.O_ à Chantilly le 22 juin 2024, _Véronique_ à Coye-la-Forêt le 29 septembre 2024)
@@ -122,7 +122,7 @@ Expert en shell
 - Relation avec les fournisseurs et les partenaires qui gèrent les différents hébergements.
 - Configuration de BIOS/iLO et système d'exploitation Red Hat 7 & 8.
 - Configuration de modules Puppet pour la création de serveurs en Red Hat 8.
-- Masterisation de serveurs en Red Hat?
+- Masterisation de serveurs en Red Hat 8.
 
 **Système** : Red Hat<br>
 **Langage** : Shell, Python<br>
