@@ -86,7 +86,9 @@ Expert en shell
     * Création et animation d’actions de promotion du club et du tennis de table.
     * Mise en place de l’informatique nécessaire à la gestion du club (Paheko, Joomla!, NextCloud).
 
-- Bénévole, sur une semaine, au WTT (World Table Tennis) Champions de Montpellier en octobre 2024 : guide des spectateurs et chaperon des sportifs et membres dirigeants de la WTT.
+- Bénévole, sur une semaine, au WTT (World Table Tennis) Champions de Montpellier en octobre 2024 : 
+  * guide des spectateurs,
+  * chaperon des sportifs et membres dirigeants de la WTT.
 
 - Pour l’association [Orry-en-transition](https://orryentransition.fr/) :
   * Préparation et animation d'une rencontre sur les logiciels libres et la sobriété numérique (20 janvier 2022)
