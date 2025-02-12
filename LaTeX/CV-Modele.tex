@@ -1,0 +1,46 @@
+%% start of file `CV-Modele2.tex'.
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+\documentclass[10pt,a4paper,sans,french]{moderncv}
+
+% possible options include font size ('10pt', '11pt' and '12pt'),
+% paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape')
+% and font family ('sans' and 'roman')
+
+\moderncvstyle{classic}   % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{red}       % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+
+% to set the default font;
+%   use
+%       '\sfdefault' for the default sans serif font,
+%       '\rmdefault' for the default roman one,
+%       or any tex font name
+%\renewcommand{\familydefault}{\rmdefault}
+
+% uncomment to suppress automatic page numbering for CVs longer than one page
+%\nopagenumbers{}
+
+%\usepackage{hyperref}
+% character encoding
+\usepackage[utf8]{inputenc}   % replace by the encoding you are using
+
+%\usepackage{helvet}% pour utiliser la police helvetica par exemple.
+%\usepackage[french]{babel}% pour un document en français.
+
+% adjust the page margins
+\usepackage[scale=0.87]{geometry}
+%\setlength{\hintscolumnwidth}{3cm}           % if you want to change the width of the column with the dates
+%\setlength{\maketitlenamewidth}{10cm}        % for the 'classic' style, if you want to force the width
+%   allocated to your name and avoid line breaks.
+%   Be careful though, the length is normally calculated to avoid any overlap
+%   with your personal info; use this at your own typographical risks...
+
+\newcommand*{\cventrybis}[2][]{\cvline{#1}{\begin{minipage}[t]{\linewidth}\small#2\end{minipage}}}
+
+\input{CV-Identite}
+\begin{document}
+\makecvtitle
+\input{CV-Included}
+\end{document}

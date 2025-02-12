@@ -76,8 +76,22 @@ Expert en shell
 ### 2021-2022
 
 - **Bénévolat.**
+- Depuis 2024, fondateur et président du club de tennis de table d’Orry-la-Ville [CO Ping](https://co-ping.fr) :
+    * Gestion de :
+        * ses 48 membres
+        * dont 12 enfants
+        * et 15 compétiteurs
+        * pour 3 équipes, de 4 membres, dont deux championnes de leur poule en D4 et une nouvelle équipe en janvier 2025
+    * Relation avec les mairies, la fédération, la ligue, le comité et les autres clubs
+    * Création et animation d’actions de promotion du club et du tennis de table.
+    * Mise en place de l’informatique nécessaire à la gestion du club (Paheko, Joomla!, NextCloud).
+
+- Bénévole, sur une semaine, au WTT (World Table Tennis) Champions de Montpellier en octobre 2024 : 
+  * guide des spectateurs,
+  * chaperon des sportifs et membres dirigeants de la WTT.
+
 - Pour l’association [Orry-en-transition](https://orryentransition.fr/) :
-  * Préparation et animation d'un rencontre sur les logiciels libres et la sobriété numérique (20 janvier 2022)
+  * Préparation et animation d'une rencontre sur les logiciels libres et la sobriété numérique (20 janvier 2022)
   * Recyclage d’ordinateurs par l’utilisation de GNU/Linux Debian,
   * Actions de promotion de l’association : réparation de vélos, création d’un hôtel à insectes, nettoyage de la ville et des forêts attenantes...
 
@@ -85,10 +99,14 @@ Expert en shell
   * Assistance informatique depuis 2007,
   * Promotion de la distribution Primtux au salon Open Source Expérience et au Carnaval des Possibles.
 
-- [Orry’zon](https://orryzon.fr/), association culturel.<br>[ArtemOise](https://www.artemoise.fr/), association culturelle de promotion de musiques lyriques.
+- [Orry’zon](https://orryzon.fr/), association culturelle.<br>[ArtemOise](https://www.artemoise.fr/), association culturelle de promotion de musiques lyriques.
   * Pour la bonne réalisation d’une balade musicale,
   * Pour l’organisation de la 5e édition des Orryginales, concentration de voitures d’exception.
-  * Machiniste pour des spectacles musicaux (_Les Trois Ténors aux J.O_ à Chantilly le 22 juin 2024, _Véronique_ à Coye-la-Forêt le 29 septembre 2024)
+  * Machiniste pour des spectacles musicaux :
+    * _Les Trois Ténors aux J.O_, à Chantilly, le 22 juin 2024,
+    * _Véronique_, à Coye-la-Forêt, le 29 septembre 2024,
+    * _Le Secret de Suzanne_, à Orry-la-Ville, le 15 décembre 2024,
+    * _Noël se fête_, à Orry-la-Ville, le 22 décembre 2024.    
 
 - Pour [Orry Film Festival](https://www.orryfilmfestival.fr) d’Orry-la-Ville,
   * Préparation du festival,
@@ -110,19 +128,20 @@ Expert en shell
 
 ### 2022-2024
 
-`Depuis décembre 2022`
+`24 mois`
 
 - **Administrateur système GNU/Linux N3**
 - _Société Générale à Val-de-Fontenay, SSIELL via Orness._
 - **Administrateur système niveau 3**
 
 - Maintien en condition opérationnelle des serveurs physiques utilisés pour le trading à haute fréquence.
-- Amélioration et simplification des tests de validation d'état de santé des serveurs.
+- Amélioration et simplification des tests de validation d’état de santé des serveurs par une réécriture, en de multiple scripts Shell, d’un gros script Python.
 - Rédaction de documentations relatives à mon activité.
 - Relation avec les fournisseurs et les partenaires qui gèrent les différents hébergements.
 - Configuration de BIOS/iLO et système d'exploitation Red Hat 7 & 8.
 - Configuration de modules Puppet pour la création de serveurs en Red Hat 8.
-- Masterisation de serveurs en Red Hat?
+- Masterisation de serveurs en Red Hat 8 ainsi que leur configuration définitive
+- Tout cela dans un environnement anglophone en relation avec des collègues Indiens et des prestataires étrangers
 
 **Système** : Red Hat<br>
 **Langage** : Shell, Python<br>
@@ -634,8 +653,5 @@ Expert en shell
   * autodidacte, curieux et passionné de logiciels libres en général et GNU/Linux en particulier,
   * Utilisateur de GNU/Linux depuis 1999, Debian depuis 2002,
   * Adhérent d’une association de promotion des Logiciels Libres (Oisux).
-- Fondateur et président du club de tennis de table d'Orry-la-Ville [CO Ping](https://co-ping.fr) :
-  * Gestion des presque 40 membres dont 12 enfants et des 2 équipes de compétition.
-  * Relation avec les mairies, la Fédération, la ligue, le comité et les autres clubs
-  * Création et animation d'actions de promotion du tennis de table.
-  * Mise en place de l'informatique nécessaire à la gestion du club (Paheko, Joomla!, NextCloud).
+- Sport :
+  * Pongiste acharné et dopé à l’amitié de ses partenaires.
