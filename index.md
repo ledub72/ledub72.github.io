@@ -588,7 +588,7 @@ Expert en shell
 
 - **Analyste d’exploitation Unix**
 - _NT & VMS, Crédit Lyonnais par Atos, La Défense._
-- Analyse et résolution des incidents applicatifs (Summit, EAI, Murex, … & systèmes (HP Ux & SunOs)).
+- Analyse et résolution des incidents applicatifs (Summit, EAI, Murex, …) & systèmes (HP Ux & SunOs).
 - Création de consignes,
 - Développement de scripts pour la gestion de comptes Unix & Sybase et l’exploitation d’un EAI.
 - Amélioration des scripts d’exploitation de l’application Summit.
