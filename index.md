@@ -78,22 +78,27 @@ Expert en shell
 - **Bénévolat.**
 - Depuis 2024, fondateur et président du club de tennis de table d’Orry-la-Ville [CO Ping](https://co-ping.fr) :
     * Gestion de :
-        * ses 48 membres
-        * dont 12 enfants
-        * et 15 compétiteurs
-        * pour 3 équipes, de 4 membres, dont deux championnes de leur poule en D4 et une nouvelle équipe en janvier 2025
+        * ses 50 membres
+        * dont 15 enfants de 8 à 15 ans
+        * et 20 compétiteurs
+        * pour 4 équipes, de 4 membres
     * Relation avec les mairies, la fédération, la ligue, le comité et les autres clubs
     * Création et animation d’actions de promotion du club et du tennis de table.
-    * Mise en place de l’informatique nécessaire à la gestion du club (Paheko, Joomla!, NextCloud).
+    * Mise en place de l’informatique nécessaire à la gestion du club (Joomla!, NextCloud, etc…).
 
-- Bénévole, sur une semaine, au WTT (World Table Tennis) Champions de Montpellier en octobre 2024 : 
-  * guide des spectateurs,
-  * chaperon des sportifs et membres dirigeants de la WTT.
+- Bénévole, sur une semaine, au Championnat de France de Tennis de table à Levallois-Perret, en mars 2025
+  * Préparation des salles de compétition et d'entraînement
+  * Manutention
+  * Guide des spectateurs,
+
+- Bénévole, sur une semaine, au WTT (World Table Tennis) Champions de Montpellier en octobre 2024 et prochainement en octobre 2025 : 
+  * Guide des spectateurs,
+  * Chaperon des sportifs et membres dirigeants de la WTT.
 
 - Pour l’association [Orry-en-transition](https://orryentransition.fr/) :
   * Préparation et animation d'une rencontre sur les logiciels libres et la sobriété numérique (20 janvier 2022)
   * Recyclage d’ordinateurs par l’utilisation de GNU/Linux Debian,
-  * Actions de promotion de l’association : réparation de vélos, création d’un hôtel à insectes, nettoyage de la ville et des forêts attenantes...
+  * Actions de promotion de l’association : réparation de vélos, création d’un hôtel à insectes, nettoyage de la ville et des forêts attenantes …
 
 - [Oisux](https://www.oisux.org/), association de promotion des Logiciels Libre sur le secteur géographique de l’Oise :
   * Assistance informatique depuis 2007,
@@ -124,7 +129,20 @@ Expert en shell
 
 **Système** : Debian, CentOS<br>
 **Langage** : Shell, Markdown, LaTeX<br>
-**Outils** : Ansible, Git, Pandoc, Proxmox, Yunohost, sécateur,...
+**Outils** : Ansible, Git, Pandoc, Proxmox, Yunohost, sécateur, …
+
+### 2025
+`9 mois`
+
+- **Ingénieur Packaging Linux, Administrateur Système Linux**
+- _SNCF à Lille, SSIELL via Atos._
+
+- Modification ou création puis test des paquets RPM et DEB d'applications conformes aux exigences SCNF.
+- Création d'une procédure de migration Red Hat Enterprise Linux 8 vers 9.10 dans le contexte de l'infrastructure du client. Rédaction de la procédure.
+- Création de machines virtuelles de tests de paquets et de migration.
+
+**Système** : Red Hat et ses dérivées, Ubuntu<br>
+**Langage** : Shell<br>
 
 ### 2022-2024
 
@@ -156,11 +174,11 @@ Expert en shell
 - **Administrateur système niveau 2 & 3**
 
 - Analyse de la performance de systèmes Linux et recherche de l’origine de leur charge machine,
-- Utilisation de DataDog, Centreon et commandes Unix (`top`, `sar`, `pidstat`...),
+- Utilisation de DataDog, Centreon et commandes Unix (`top`, `sar`, `pidstat`, …)
 - Gestion des ressources de VM depuis VMware ESX : ajout d’espace disque, RAM, mémoire,
 - Action sur LVM : création, augmentation et diminution de partitions,
 - Administration de serveurs dans le cloud Azure (configuration de Load Balancer, ajout de ressources CPU et disque,
-- Rédaction de notes pour la gestion de LVM et des différentes commandes d’analyse système (`top`, `iostat`, `pidstat`...)
+- Rédaction de notes pour la gestion de LVM et des différentes commandes d’analyse système (`top`, `iostat`, `pidstat`, …)
 - **Administrateur DBA Oracle niveau 1**
 
 - Analyse des dysfonctionnements de connexion Oracle,
@@ -272,13 +290,13 @@ Expert en shell
 - Définition et mise en place de nouvelles normes des objets IWS et de leur gestion dans Git,
 - Rédaction de la procédure de livraison des objets IWS,
 - Création et maintenance des scripts d’administration et de surveillance (Centreon),
-- Création de chaînes complexes (conditions multiples, gestion d’événements, etc...),
-- Analyse de la performance de la production informatique (dérive des temps de traitements, espace disque, taille des fichiers échangés...),
+- Création de chaînes complexes (conditions multiples, gestion d’événements, etc…)
+- Analyse de la performance de la production informatique (dérive des temps de traitements, espace disque, taille des fichiers échangés, …
 - Gestion des calendriers.
 - **Ingénieur de production**
 
 - Rédaction de documentations,
-- Recherche et traitement sur des fichiers (`find`, `sed`, `awk`, ...)
+- Recherche et traitement sur des fichiers (`find`, `sed`, `awk`, …)
 - Suivi de la production : reprise de traitements, corrections de chaînes et/ou de scripts,
 - Relations avec les autres équipes autant internes qu’externes (IBM et autres partenaires de la banque),
 - Avec un parc d’une centaine de serveurs, premier intervenant pour l’analyse des dysfonctionnements système.
@@ -378,7 +396,7 @@ Expert en shell
 - Création de scripts d’aide à la gestion de la production Unix / GNU/Linux sur TWS :
   * récupération des traitements trop fréquemment en erreur
   * automatisation d’envoi de message d’information d’erreur
-  * nettoyage des objets obsolètes (calendrier, traitement orphelin, chaîne vide, etc...)
+  * nettoyage des objets obsolètes (calendrier, traitement orphelin, chaîne vide, etc…)
   * génération de pages HTML contenant les informations des chaînes et un schéma des enchaînements des traitements
 
 **Système** : Red Hat<br>
@@ -570,7 +588,7 @@ Expert en shell
 
 - **Analyste d’exploitation Unix**
 - _NT & VMS, Crédit Lyonnais par Atos, La Défense._
-- Analyse et résolution des incidents applicatifs (Summit, EAI, Murex...) & systèmes (HP Ux & SunOs).
+- Analyse et résolution des incidents applicatifs (Summit, EAI, Murex, …) & systèmes (HP Ux & SunOs).
 - Création de consignes,
 - Développement de scripts pour la gestion de comptes Unix & Sybase et l’exploitation d’un EAI.
 - Amélioration des scripts d’exploitation de l’application Summit.
