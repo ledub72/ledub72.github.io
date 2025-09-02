@@ -290,7 +290,7 @@ Expert en shell
 - Définition et mise en place de nouvelles normes des objets IWS et de leur gestion dans Git,
 - Rédaction de la procédure de livraison des objets IWS,
 - Création et maintenance des scripts d’administration et de surveillance (Centreon),
-- Création de chaînes complexes (conditions multiples, gestion d’événements, etc…
+- Création de chaînes complexes (conditions multiples, gestion d’événements, etc…)
 - Analyse de la performance de la production informatique (dérive des temps de traitements, espace disque, taille des fichiers échangés, …
 - Gestion des calendriers.
 - **Ingénieur de production**
