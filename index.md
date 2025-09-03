@@ -137,7 +137,7 @@ Expert en shell
 - **Ingénieur Packaging Linux, Administrateur Système Linux**
 - _SNCF à Lille, SSIELL via Atos._
 
-- Modification ou création puis test des paquets RPM et DEB d'applications conformes aux exigences SCNF.
+- Modification ou création puis test des paquets RPM et DEB d'applications conformes aux exigences SNCF.
 - Création d'une procédure de migration Red Hat Enterprise Linux 8 vers 9.10 dans le contexte de l'infrastructure du client. Rédaction de la procédure.
 - Création de machines virtuelles de tests de paquets et de migration.
 
