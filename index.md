@@ -6,13 +6,13 @@ title:  Curriculum vitæ de Damien DUBÉDAT
 ---
 # Damien DUBÉDAT
 
-<a href="mailto:dubdub@CHEZfree.fr"><i class="fa fa-address-card"></i> dubdub@CHEZ@freePOINTfr</a>
+<a href="mailto:dubdub@CHEZfree.fr"><i class="fa fa-address-card"></i>dubdub@CHEZ@freePOINTfr</a>
 <div id="webaddress">
-<a href="https://ledub72.github.io/"><i class="fab fa-github-alt"></i> ledub72.github.io</a> -
-  <a href="https://github.com/ledub72"><i class="fab fa-github"></i> ledub72</a> -
-  <a href="https://gitlab.com/DamDub"><i class="fab fa-gitlab"></i> DamDub</a> <br>
-  <a href="https://iels-ledub.gitlab.io/mon_site/"><i class="fas fa-home"></i> Site perso</a> -
-  <a href="https://www.linkedin.com/in/damien-dubedat"><i class="fab fa-linkedin"></i> Damien DUBÉDAT</a>
+<a href="https://ledub72.github.io/"><i class="fab fa-github-alt"></i>ledub72.github.io</a> -
+  <a href="https://github.com/ledub72"><i class="fab fa-github"></i>ledub72</a> -
+  <a href="https://gitlab.com/DamDub"><i class="fab fa-gitlab"></i>DamDub</a> <br>
+  <a href="https://iels-ledub.gitlab.io/mon_site/"><i class="fas fa-home"></i>Site perso</a> -
+  <a href="https://www.linkedin.com/in/damien-dubedat"><i class="fab fa-linkedin"></i>Damien DUBÉDAT</a>
 </div>
 
 ----
@@ -89,11 +89,14 @@ Expert en shell
 - Bénévole, sur une semaine, au Championnat de France de Tennis de table à Levallois-Perret, en mars 2025
   * Préparation des salles de compétition et d'entraînement
   * Manutention
-  * Guide des spectateurs,
-
-- Bénévole, sur une semaine, au WTT (World Table Tennis) Champions de Montpellier en octobre 2024 et prochainement en octobre 2025 : 
-  * Guide des spectateurs,
-  * Chaperon des sportifs et membres dirigeants de la WTT.
+  * Guide des spectateurs.
+  
+- À deux reprises, bénévole au WTT (World Table Tennis) Champions de Montpellier
+  * en octobre 2024 : 
+    * guide des spectateurs, 
+    * chaperon des sportifs et membres dirigeants de la WTT.
+  * en octobre 2025 : 
+    * agent de services généraux, c'est-à-dire la gestion de l'aréna avant et pendant l'évènement.
 
 - Pour l’association [Orry-en-transition](https://orryentransition.fr/) :
   * Préparation et animation d'une rencontre sur les logiciels libres et la sobriété numérique (20 janvier 2022)
@@ -111,8 +114,10 @@ Expert en shell
     * _Les Trois Ténors aux J.O_, à Chantilly, le 22 juin 2024,
     * _Véronique_, à Coye-la-Forêt, le 29 septembre 2024,
     * _Le Secret de Suzanne_, à Orry-la-Ville, le 15 décembre 2024,
-    * _Noël se fête_, à Orry-la-Ville, le 22 décembre 2024.    
-
+    * _Noël se fête_, à Orry-la-Ville, le 22 décembre 2024.
+    * _Un Mari à la porte_, à Orry-la-Ville, le 22 juin 2025.
+    * _Le Cabaret du Styx_, à Orry-la-Ville, le 7 novembre 2025.
+    
 - Pour [Orry Film Festival](https://www.orryfilmfestival.fr) d’Orry-la-Ville,
   * Préparation du festival,
   * Visionnage et sélection de films,
