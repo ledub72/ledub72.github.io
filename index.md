@@ -679,5 +679,3 @@ Expert en shell
   * autodidacte, curieux et passionné de logiciels libres en général et GNU/Linux en particulier,
   * Utilisateur de GNU/Linux depuis 1999, Debian depuis 2002,
   * Adhérent d’une association de promotion des Logiciels Libres (Oisux).
-- Sport :
-  * Pongiste acharné et dopé à l’amitié de ses partenaires.
