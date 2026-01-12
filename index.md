@@ -76,7 +76,7 @@ Expert en shell
 ### 2021-2022
 
 - **Bénévolat.**
-- Depuis 2024, fondateur et président du club de tennis de table d’Orry-la-Ville [CO Ping](https://co-ping.fr) :
+- Fondateur, en 2023, du club de tennis de table d’Orry-la-Ville [CO Ping](https://co-ping.fr) :
     * Gestion de :
         * ses 50 membres
         * dont 15 enfants de 8 à 15 ans
@@ -90,12 +90,12 @@ Expert en shell
   * Préparation des salles de compétition et d'entraînement
   * Manutention
   * Guide des spectateurs.
-  
+
 - À deux reprises, bénévole au WTT (World Table Tennis) Champions de Montpellier
-  * en octobre 2024 : 
-    * guide des spectateurs, 
+  * en octobre 2024 :
+    * guide des spectateurs,
     * chaperon des sportifs et membres dirigeants de la WTT.
-  * en octobre 2025 : 
+  * en octobre 2025 :
     * agent de services généraux, c'est-à-dire la gestion de l'aréna avant et pendant l'évènement.
 
 - Pour l’association [Orry-en-transition](https://orryentransition.fr/) :
@@ -117,7 +117,7 @@ Expert en shell
     * _Noël se fête_, à Orry-la-Ville, le 22 décembre 2024.
     * _Un Mari à la porte_, à Orry-la-Ville, le 22 juin 2025.
     * _Le Cabaret du Styx_, à Orry-la-Ville, le 7 novembre 2025.
-    
+
 - Pour [Orry Film Festival](https://www.orryfilmfestival.fr) d’Orry-la-Ville,
   * Préparation du festival,
   * Visionnage et sélection de films,
@@ -142,8 +142,11 @@ Expert en shell
 - **Ingénieur Packaging Linux, Administrateur Système Linux**
 - _SNCF à Lille, SSIELL via Atos._
 
-- Modification ou création puis test des paquets RPM et DEB d'applications conformes aux exigences SNCF.
-- Création d'une procédure de migration Red Hat Enterprise Linux 8 vers 9.10 dans le contexte de l'infrastructure du client. Rédaction de la procédure.
+- Modification, ou création, puis test des paquets RPM et DEB d’applications conformes aux exigences SNCF (docker, CFT, MQSeries . . . ).
+- Création de scripts d’installation et de suppression de paquet, pour Ubuntu et Red Hat
+- Correction de vulnérabilité sur les serveurs de tests, en relation avec l’équipe Cybersécurité.
+- Actions d’administration système : LVM, analyse de log, configuration via Salt.
+- Création d’une procédure de migration Red Hat Enterprise Linux 8 vers 9.10 dans le contexte de l’infrastructure du client.
 - Création de machines virtuelles de tests de paquets et de migration.
 
 **Système** : Red Hat et ses dérivées, Ubuntu<br>
@@ -157,14 +160,18 @@ Expert en shell
 - _Société Générale à Val-de-Fontenay, SSIELL via Orness._
 - **Administrateur système niveau 3**
 
-- Maintien en condition opérationnelle des serveurs physiques utilisés pour le trading à haute fréquence.
+- Maintien en condition opérationnelle des serveurs physiques (HPE) utilisés pour le trading à haute fréquence.
+- Serveurs overclockés et au noyau optimisé, équipés de carte réseau Solarflare.
+- Actions dans l’interface de gestion des serveurs physique HPE (iLO 2 à iLO 5) : analyse des log, diagnostiques, configuration BIOS, récupération d’informations (adresse MAC, configuration matériel).
+- Installation et configuration de Red Hat 7 & 8 depuis l’iLO à partir d’une iso associée à chaque serveur et le passage d’une action de Puppet.
+- Configuration de modules Puppet pour la création de serveurs en Red Hat 8.
+- Création des paquet du pilote Solarflare et de ses logiciels dépendants pour Red Hat 8.
+- Utilisation d’Ansible pour la partie morning check, donc maintien des playbooks (documentation, simplification, amélioration de la gestion de l’inventaire des serveurs).
 - Amélioration et simplification des tests de validation d’état de santé des serveurs par une réécriture, en de multiple scripts Shell, d’un gros script Python.
 - Rédaction de documentations relatives à mon activité.
 - Relation avec les fournisseurs et les partenaires qui gèrent les différents hébergements.
-- Configuration de BIOS/iLO et système d'exploitation Red Hat 7 & 8.
-- Configuration de modules Puppet pour la création de serveurs en Red Hat 8.
-- Masterisation de serveurs en Red Hat 8 ainsi que leur configuration définitive
-- Tout cela dans un environnement anglophone en relation avec des collègues Indiens et des prestataires étrangers
+- Relation avec les équipes réseau, sécurité et fourniture de serveurs de la Société Générale.
+- Tout cela dans un environnement anglophone avec mes collègues Indiens et les prestataires étrangers.
 
 **Système** : Red Hat<br>
 **Langage** : Shell, Python<br>
