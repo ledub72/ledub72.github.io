@@ -141,7 +141,6 @@ Expert en shell
 
 - **Ingénieur Packaging Linux, Administrateur Système Linux**
 - _SNCF à Lille, SSIELL via Atos._
-
 - Modification, ou création, puis test des paquets RPM et DEB d’applications conformes aux exigences SNCF (docker, CFT, MQSeries . . . ).
 - Création de scripts d’installation et de suppression de paquet, pour Ubuntu et Red Hat
 - Correction de vulnérabilité sur les serveurs de tests, en relation avec l’équipe Cybersécurité.
@@ -158,20 +157,18 @@ Expert en shell
 
 - **Administrateur système GNU/Linux N3**
 - _Société Générale à Val-de-Fontenay, SSIELL via Orness._
-- **Administrateur système niveau 3**
-
-- Maintien en condition opérationnelle des serveurs physiques (HPE) utilisés pour le trading à haute fréquence.
-- Serveurs overclockés et au noyau optimisé, équipés de carte réseau Solarflare.
-- Actions dans l’interface de gestion des serveurs physique HPE (iLO 2 à iLO 5) : analyse des log, diagnostiques, configuration BIOS, récupération d’informations (adresse MAC, configuration matériel).
-- Installation et configuration de Red Hat 7 & 8 depuis l’iLO à partir d’une iso associée à chaque serveur et le passage d’une action de Puppet.
-- Configuration de modules Puppet pour la création de serveurs en Red Hat 8.
-- Création des paquet du pilote Solarflare et de ses logiciels dépendants pour Red Hat 8.
-- Utilisation d’Ansible pour la partie morning check, donc maintien des playbooks (documentation, simplification, amélioration de la gestion de l’inventaire des serveurs).
-- Amélioration et simplification des tests de validation d’état de santé des serveurs par une réécriture, en de multiple scripts Shell, d’un gros script Python.
-- Rédaction de documentations relatives à mon activité.
-- Relation avec les fournisseurs et les partenaires qui gèrent les différents hébergements.
-- Relation avec les équipes réseau, sécurité et fourniture de serveurs de la Société Générale.
-- Tout cela dans un environnement anglophone avec mes collègues Indiens et les prestataires étrangers.
+* Maintien en condition opérationnelle des serveurs physiques (HPE) utilisés pour le trading à haute fréquence.
+* Serveurs overclockés et au noyau optimisé, équipés de carte réseau Solarflare.
+* Actions dans l’interface de gestion des serveurs physique HPE (iLO 2 à iLO 5) : analyse des log, diagnostiques, configuration BIOS, récupération d’informations (adresse MAC, configuration matériel).
+* Installation et configuration de Red Hat 7 & 8 depuis l’iLO à partir d’une iso associée à chaque serveur et le passage d’une action de Puppet.
+* Configuration de modules Puppet pour la création de serveurs en Red Hat 8.
+* Création des paquet du pilote Solarflare et de ses logiciels dépendants pour Red Hat 8.
+* Utilisation d’Ansible pour la partie morning check, donc maintien des playbooks (documentation, simplification, amélioration de la gestion de l’inventaire des serveurs).
+* Amélioration et simplification des tests de validation d’état de santé des serveurs par une réécriture, en de multiple scripts Shell, d’un gros script Python.
+* Rédaction de documentations relatives à mon activité.
+* Relation avec les fournisseurs et les partenaires qui gèrent les différents hébergements.
+* Relation avec les équipes réseau, sécurité et fourniture de serveurs de la Société Générale.
+* Tout cela dans un environnement anglophone avec mes collègues Indiens et les prestataires étrangers.
 
 **Système** : Red Hat<br>
 **Langage** : Shell, Python<br>
@@ -181,16 +178,16 @@ Expert en shell
 
 `6 mois`
 
-- **Administrateur système GNU/Linux N2/N3**
+- **Administrateur système GNU/Linux N2/N3, administrateur applicatif**
 - _SNCF à Lyon/La Défense, SSIELL via Modis._
 - **Administrateur système niveau 2 & 3**
 
-- Analyse de la performance de systèmes Linux et recherche de l’origine de leur charge machine,
-- Utilisation de DataDog, Centreon et commandes Unix (`top`, `sar`, `pidstat`, …)
-- Gestion des ressources de VM depuis VMware ESX : ajout d’espace disque, RAM, mémoire,
-- Action sur LVM : création, augmentation et diminution de partitions,
-- Administration de serveurs dans le cloud Azure (configuration de Load Balancer, ajout de ressources CPU et disque,
-- Rédaction de notes pour la gestion de LVM et des différentes commandes d’analyse système (`top`, `iostat`, `pidstat`, …)
+* Analyse de la performance de systèmes Linux et recherche de l’origine de leur charge machine,
+* Utilisation de DataDog, Centreon et commandes Unix (`top`, `sar`, `pidstat`, …)
+* Gestion des ressources de VM depuis VMware ESX : ajout d’espace disque, RAM, mémoire,
+* Action sur LVM : création, augmentation et diminution de partitions,
+* Administration de serveurs dans le cloud Azure (configuration de Load Balancer, ajout de ressources CPU et disque,
+* Rédaction de notes pour la gestion de LVM et des différentes commandes d’analyse système (`top`, `iostat`, `pidstat`, …).
 - **Administrateur DBA Oracle niveau 1**
 
 - Analyse des dysfonctionnements de connexion Oracle,
@@ -198,9 +195,9 @@ Expert en shell
 - Création de dump.
 - **Administrateur applicatif**
 
-- Application de consignes pour la reprise de traitements depuis Dollar Universe
-- Présence à des réunions et actions pour la résolution d’incidents, majeurs ou récurrents
-- Tentative d’amélioration et de correction de consignes, de scripts et de la gestion des documentations
+* Application de consignes pour la reprise de traitements depuis Dollar Universe.
+* Présence à des réunions et actions pour la résolution d’incidents, majeurs ou récurrents.
+* Tentative d’amélioration et de correction de consignes, de scripts et de la gestion des documentations.
 
 **Système** : Red Hat, Ubuntu, Aix, SunOs<br>
 **Langage** : Shell<br>
@@ -213,9 +210,9 @@ Expert en shell
 
 - **Ingénieur DevOps GNU/Linux**
 - _EU-Lisa, Strasbourg, SSIELL via Next-Ventures._
-- Dans un environnement exclusivement anglophone.
-- Rédaction de playbook et de rôles pour la gestion de Pod Kubernetes
-- Assistance à la rédaction de scripts d’administration applicative
+* Dans un environnement exclusivement anglophone.
+* Rédaction de playbook et de rôles pour la gestion de Pod Kubernetes.
+* Assistance à la rédaction de scripts d’administration applicative.
 
 **Système** : Red Hat<br>
 **Langage** : Shell<br>
@@ -229,20 +226,20 @@ Expert en shell
 - _Bforbank, La Défense, SSIELL._
 - **Gestion de migration de serveurs**
 
-- Pour la migration de serveurs de Red Hat 6.6 en 7.7
-* Planification
-* Analyse de l’existant,
-* Homogénéisation des scripts,
-* Amélioration de l’existant.
+* Pour la migration de serveurs de Red Hat 6.6 en 7.7
+  * Planification
+  * Analyse de l’existant,
+  * Homogénéisation des scripts,
+  * Amélioration de l’existant.
 - **Ingénieur système**
 
-- Maintien en condition opérationnelle d’une centaine de serveurs,
-- Gestion des demandes auprès de l’hébergeur (Crédit Agricole),
-- Création de playbooks Ansible pour la création d’un socle Linux commun à tous les serveurs,
-- Gestion de dépôts Git,
-- Validation des évolutions des scripts,
-- Support des changements IWS,
-- Rédaction, mise à jour de documentations sur IWS, CFT, Git et l’administration Linux Red Hat
+* Maintien en condition opérationnelle d’une centaine de serveurs,
+* Gestion des demandes auprès de l’hébergeur (Crédit Agricole),
+* Création de playbooks Ansible pour la création d’un socle Linux commun à tous les serveurs,
+* Gestion de dépôts Git,
+* Validation des évolutions des scripts,
+* Support des changements IWS,
+* Rédaction, mise à jour de documentations sur IWS, CFT, Git et l’administration Linux Red Hat
 
 **Système** : Red Hat<br>
 **Langage** : Shell<br>
@@ -256,16 +253,16 @@ Expert en shell
 - _STET, La Défense, SSIELL via BK OSI._
 - **Administrateur GNU/Linux**
 
-- Administration des postes GNU/Linux Ubuntu avec Ansible
-- Rédaction et amélioration des playbooks Ansible
-- Installation, configuration et maintien à jour des postes GNU/Linux Ubuntu
-- Amélioration de la sécurité des postes (_Hardening_)
+* Administration des postes GNU/Linux Ubuntu avec Ansible
+* Rédaction et amélioration des playbooks Ansible
+* Installation, configuration et maintien à jour des postes GNU/Linux Ubuntu
+* Amélioration de la sécurité des postes (_Hardening_)
 - **Technicien bureautique**
 
-- Inventaire des configurations, des postes et pièces détachées.
-- Réalisation, avec Proxmox, et mise en place d’un serveur PXE et d’un serveur de paquets `apt-cacher-ng`.
-- Rédaction de documentations sur les playbooks et l’administration et l’utilisation des serveurs PXE et `apt-cacher-ng`.
-- Administrateur d’AWX, Jira et Confluence de Atlassian.
+* Inventaire des configurations, des postes et pièces détachées.
+* Réalisation, avec Proxmox, et mise en place d’un serveur PXE et d’un serveur de paquets `apt-cacher-ng`.
+* Rédaction de documentations sur les playbooks et l’administration et l’utilisation des serveurs PXE et `apt-cacher-ng`.
+* Administrateur d’AWX, Jira et Confluence de Atlassian.
 
 **Système** : Ubuntu, Debian<br>
 **Langage** : Shell, Python<br>
@@ -279,11 +276,11 @@ Expert en shell
 - _Generali, Saint-Denis, SSIELL Apside._
 - **Administration de la solution Serena de Micro Focus**
 
-- Administration de la solution
-- Ajustement de la configuration des outils de déploiements
-- Gestion de configuration Ansible
-- Modification de scripts Shell pour la gestion d’un dépôt de fichiers et pour la parallélisation des commandes JBoss
-- Correction de scripts Groovy
+* Administration de la solution
+* Ajustement de la configuration des outils de déploiements
+* Gestion de configuration Ansible
+* Modification de scripts Shell pour la gestion d’un dépôt de fichiers et pour la parallélisation des commandes JBoss
+* Correction de scripts Groovy
 
 **Système** : Red Hat<br>
 **Langage** : Shell, Groovy<br>
@@ -297,28 +294,28 @@ Expert en shell
 - _BforBank, La Défense, SSIELL_
 - **Administration d'IWS**
 
-- Montée de version de l’ordonnanceur IWS, moteurs et agents, de la version 8.5 à la 9.2 :
-- Migration des moteurs de Windows TM vers GNU/Linux Red Hat,
-- Définition et mise en place de nouvelles normes des objets IWS et de leur gestion dans Git,
-- Rédaction de la procédure de livraison des objets IWS,
-- Création et maintenance des scripts d’administration et de surveillance (Centreon),
-- Création de chaînes complexes (conditions multiples, gestion d’événements, etc…)
-- Analyse de la performance de la production informatique (dérive des temps de traitements, espace disque, taille des fichiers échangés, …
-- Gestion des calendriers.
+* Montée de version de l’ordonnanceur IWS, moteurs et agents, de la version 8.5 à la 9.2 :
+* Migration des moteurs de Windows TM vers GNU/Linux Red Hat,
+* Définition et mise en place de nouvelles normes des objets IWS et de leur gestion dans Git,
+* Rédaction de la procédure de livraison des objets IWS,
+* Création et maintenance des scripts d’administration et de surveillance (Centreon),
+* Création de chaînes complexes (conditions multiples, gestion d’événements, etc…)
+* Analyse de la performance de la production informatique (dérive des temps de traitements, espace disque, taille des fichiers échangés, …
+* Gestion des calendriers.
 - **Ingénieur de production**
 
-- Rédaction de documentations,
-- Recherche et traitement sur des fichiers (`find`, `sed`, `awk`, …)
-- Suivi de la production : reprise de traitements, corrections de chaînes et/ou de scripts,
-- Relations avec les autres équipes autant internes qu’externes (IBM et autres partenaires de la banque),
-- Avec un parc d’une centaine de serveurs, premier intervenant pour l’analyse des dysfonctionnements système.
+* Rédaction de documentations,
+* Recherche et traitement sur des fichiers (`find`, `sed`, `awk`, …)
+* Suivi de la production : reprise de traitements, corrections de chaînes et/ou de scripts,
+* Relations avec les autres équipes autant internes qu’externes (IBM et autres partenaires de la banque),
+* Avec un parc d’une centaine de serveurs, premier intervenant pour l’analyse des dysfonctionnements système.
 - **Expert Shell**
 
-- Gestion des versions des scripts par Git,
-- Modification et création de scripts,
-- Rédaction de bonnes pratiques à l’utilisation de serveurs GNU/Linux,
-- Création de scripts de contrôle de fichiers par Sentinel ou GateWay, d’interrogation Oracle et MySQL, de sauvegarde MySQL et PostgreSQL, et d’interaction avec le logiciel Core BanKing T24 (Temenos),
-- Animation de micro-formations dispensées auprès de mes collègues sur Unix & GNU/Linux, Shell, Logiciels libres,
+* Gestion des versions des scripts par Git,
+* Modification et création de scripts,
+* Rédaction de bonnes pratiques à l’utilisation de serveurs GNU/Linux,
+* Création de scripts de contrôle de fichiers par Sentinel ou GateWay, d’interrogation Oracle et MySQL, de sauvegarde MySQL et PostgreSQL, et d’interaction avec le logiciel Core BanKing T24 (Temenos),
+* Animation de micro-formations dispensées auprès de mes collègues sur Unix & GNU/Linux, Shell, Logiciels libres,
 
 **Système** : Red Hat<br>
 **Langage** : Shell, SQL<br>
@@ -333,11 +330,11 @@ Expert en shell
 - _DBA junior, Cour des Comptes, Paris_
 - **Ingénieur de production / système**
 
-- Mise en place d’un serveur Debian pour la :
-* Mise en place d’une base documentaire avec Dokuwiki,
-* d’une centralisation des mots de passe avec KeePassX,
-- Mise à jour de Nagios.
-- Administration du serveur Oracle VM,
+* Mise en place d’un serveur Debian pour la :
+  * Mise en place d’une base documentaire avec Dokuwiki,
+  * d’une centralisation des mots de passe avec KeePassX,
+* Mise à jour de Nagios.
+* Administration du serveur Oracle VM,
 * Administration de serveurs Oracle GNU/Linux sous Oracle VM,
 * Création de squelettes Oracle GNU/Linux sur VMware
 * Installation et configuration d’un serveur Oracle VM Server.
@@ -346,10 +343,9 @@ Expert en shell
 
 * Rédaction de documentations relatives à l’administration des applications, du système GNU/Linux et bases de données.
 * Rédaction de consignes et de procédures pour la gestion des applications.
-- **Rédaction de scripts** :
-
-* d’analyse des LUN NetApp et IBM,
-* de cartographie réseau avec `nmap`.
+* Rédaction de scripts 
+  * d’analyse des LUN NetApp et IBM,
+  * de cartographie réseau avec `nmap`.
 
 **Système** : Oracle Linux, CentOs, Debian<br>
 **Langage** : Shell, SQL<br>
@@ -360,7 +356,7 @@ Expert en shell
 
 `6 mois`
 
-- **Expert TWS**
+- **Expert TWS & administrateur applicatif**
 - _Véolia, Saint-Maurice, SSIELL via Logware._
 - **Expert TWS**
 
@@ -598,8 +594,8 @@ Expert en shell
 
 `30 mois`
 
-- **Analyste d’exploitation Unix**
-- _NT & VMS, Crédit Lyonnais par Atos, La Défense._
+- **Analyste d’exploitation Unix, NT & VMS**
+- _Crédit Lyonnais par Atos, La Défense._
 - Analyse et résolution des incidents applicatifs (Summit, EAI, Murex, …) & systèmes (HP Ux & SunOs).
 - Création de consignes,
 - Développement de scripts pour la gestion de comptes Unix & Sybase et l’exploitation d’un EAI.
