@@ -2,6 +2,7 @@
 *.aux
 *.log
 *.pdf
+*.docx
 *.gz
 .sass-cache/
 _site/
